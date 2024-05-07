@@ -1,3 +1,7 @@
+# Code taken from:
+# Reference: martijnfolmer. 2023. Super Resolution using UNET. https://github.com/
+# martijnfolmer/SuperResolution_using_UNET GitHub repository.
+
 from tensorflow.keras import layers
 from tensorflow import keras
 import tensorflow as tf
