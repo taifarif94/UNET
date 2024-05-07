@@ -1,3 +1,8 @@
+# Code taken from:
+# Reference: martijnfolmer. 2023. Super Resolution using UNET. https://github.com/
+# martijnfolmer/SuperResolution_using_UNET GitHub repository.
+# Slight modifications
+
 # USER VARIABLES
 pathToFolderWithImages = '/content/output_images_grey_from_npy'  # absolute path to the folder containing the images of your dataset
 pathToNewTestDataset = '/content/SuperResolution_using_UNET_for_temperature_downscaling/output_images_grey_from_grib'  # Path to the new dataset for evaluation
